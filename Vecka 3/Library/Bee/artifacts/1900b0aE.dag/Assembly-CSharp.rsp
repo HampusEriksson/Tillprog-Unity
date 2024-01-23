@@ -364,6 +364,7 @@
 "Assets/ObstacleCoursePack/Scripts/SavePos.cs"
 "Assets/ObstacleCoursePack/Scripts/WallMovable.cs"
 "Assets/Scripts/CameraController.cs"
+"Assets/Scripts/CarController.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 
