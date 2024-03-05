@@ -355,8 +355,10 @@
 "Assets/Scripts/Animal.cs"
 "Assets/Scripts/ChickenController.cs"
 "Assets/Scripts/DeerController.cs"
+"Assets/Scripts/MenuManager.cs"
 "Assets/Scripts/SpawnManager.cs"
 "Assets/Scripts/TigerController.cs"
+"Assets/Scripts/UIManager.cs"
 -langversion:9.0
 
 /deterministic
